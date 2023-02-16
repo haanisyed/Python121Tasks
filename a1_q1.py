@@ -1,5 +1,5 @@
 '''
-Winter 2023
+Python Assignment 1
 Name: Haani Syed
 Date: 2023-01-19
 '''
