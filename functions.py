@@ -1,3 +1,6 @@
+"""
+Python 121 Assignment 2 Question 1 and Question 2 Functions File
+"""
 def all_odd_or_even(*args):
     '''
     purpose: function that is imported in a2q1
