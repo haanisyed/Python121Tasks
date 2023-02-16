@@ -1,15 +1,7 @@
 '''
-CISC-121 2023W
-
+Winter 2023
 Name: Haani Syed
-
-Student Number: 20331181
-
-Email: 21ahs7@queensu.ca
-
 Date: 2023-01-19
-
-I confirm that this assignment solution is my own work and conforms to Queen’s standards of Academic Integrity
 '''
 
 import random #importing random
