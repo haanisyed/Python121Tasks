@@ -2,7 +2,6 @@
 Python 121 Assignment 2 Question 1 def main
 Name: Haani Syed
 Date: 2023-02-01
-I confirm that this assignment solution is my own work and conforms to Queen’s standards of Academic Integrity
 '''
 from functions import all_odd_or_even #import statement for my function.
 def main(): #main function/main program
