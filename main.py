@@ -1,5 +1,5 @@
 '''
-Python 121 Assignment 1
+Python 121 Assignment 1 Question 2
 Name: Haani Syed
 Date: 2023-01-19
 '''
