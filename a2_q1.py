@@ -1,8 +1,6 @@
 '''
-CISC-121 2023W
+Python 121 Assignment 2 Question 1 def main
 Name: Haani Syed
-Student Number: 20331181
-Email: 21ahs7@queensu.ca
 Date: 2023-02-01
 I confirm that this assignment solution is my own work and conforms to Queen’s standards of Academic Integrity
 '''
